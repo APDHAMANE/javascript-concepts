@@ -1,0 +1,19 @@
+{
+  "name": "javascript-concepts",
+  "version": "1.0.0",
+  "description": "Implementing javascript concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APDHAMANE/javascript-concepts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/APDHAMANE/javascript-concepts/issues"
+  },
+  "homepage": "https://github.com/APDHAMANE/javascript-concepts#readme"
+}
